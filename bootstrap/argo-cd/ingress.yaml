@@ -11,7 +11,7 @@ metadata:
     alb.ingress.kubernetes.io/target-type: instance
     alb.ingress.kubernetes.io/listen-ports: '[{"HTTPS":443}]'
     alb.ingress.kubernetes.io/backend-protocol: HTTPS
-    alb.ingress.kubernetes.io/certificate-arn: arn:aws:acm:eu-west-3:774986117405:certificate/5b223e14-4796-41cb-9228-516b7d89e65d
+    alb.ingress.kubernetes.io/certificate-arn: arn:aws:acm:eu-west-3:774986117405:certificate/4c75b391-8db9-45db-a0b0-8a511f3bb14a
 spec:
   ingressClassName: alb
   defaultBackend:
