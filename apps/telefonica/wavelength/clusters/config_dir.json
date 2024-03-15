@@ -1,6 +1,6 @@
 {
-  "appName": "telefonica/wavelength",
-  "userGivenName": "telefonica/wavelength",
+  "appName": "telefonica-wavelength-clusters",
+  "userGivenName": "telefonica-wavelength-clusters",
   "destNamespace": "default",
   "destServer": "https://kubernetes.default.svc",
   "srcPath": "sites/telefonica/wavelength",
