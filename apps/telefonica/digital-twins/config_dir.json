@@ -4,7 +4,7 @@
   "destNamespace": "default",
   "destServer": "https://kubernetes.default.svc",
   "srcPath": "telefonica",
-  "srcRepoURL": "https://github.com/5gplustactile/digital-twins.git",
+  "srcRepoURL": "https://github.com/5gplustactile/deployment-digital-twins.git",
   "srcTargetRevision": "main",
   "labels": null,
   "annotations": null,
