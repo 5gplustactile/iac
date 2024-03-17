@@ -3,7 +3,7 @@
   "userGivenName": "telefonica-edge-addons",
   "destNamespace": "default",
   "destServer": "https://kubernetes.default.svc",
-  "srcPath": "sites/telefonica/edge",
+  "srcPath": "sites/telefonica/edge/addons",
   "srcRepoURL": "https://github.com/5gplustactile/auto-ztp.git",
   "srcTargetRevision": "main",
   "labels": null,
