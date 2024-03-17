@@ -3,7 +3,7 @@
   "userGivenName": "telefonica-edge-clusters",
   "destNamespace": "default",
   "destServer": "https://kubernetes.default.svc",
-  "srcPath": "sites/telefonica/edge",
+  "srcPath": "sites/telefonica/edge/clusters",
   "srcRepoURL": "https://github.com/5gplustactile/auto-ztp.git",
   "srcTargetRevision": "main",
   "labels": null,
