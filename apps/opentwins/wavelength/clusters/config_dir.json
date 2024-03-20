@@ -1,0 +1,13 @@
+{
+  "appName": "opentwins/wavelength",
+  "userGivenName": "opentwins/wavelength",
+  "destNamespace": "default",
+  "destServer": "https://kubernetes.default.svc",
+  "srcPath": "sites/opentwins/wavelength/clusters",
+  "srcRepoURL": "https://github.com/5gplustactile/auto-ztp.git",
+  "srcTargetRevision": "main",
+  "labels": null,
+  "annotations": null,
+  "exclude": "",
+  "include": ""
+}
