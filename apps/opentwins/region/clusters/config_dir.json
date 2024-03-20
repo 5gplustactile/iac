@@ -1,6 +1,6 @@
 {
-  "appName": "opentwins/region",
-  "userGivenName": "opentwins/region",
+  "appName": "opentwins-region-clusters",
+  "userGivenName": "opentwins-region-clusters",
   "destNamespace": "default",
   "destServer": "https://kubernetes.default.svc",
   "srcPath": "sites/opentwins/region/clusters",
