@@ -1,6 +1,6 @@
 {
-  "appName": "opentwins/edge",
-  "userGivenName": "opentwins/edge",
+  "appName": "opentwins-edge-addons",
+  "userGivenName": "opentwins-edge-addons",
   "destNamespace": "default",
   "destServer": "https://kubernetes.default.svc",
   "srcPath": "sites/opentwins/edge/addons",
