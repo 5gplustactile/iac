@@ -1,6 +1,6 @@
 {
-  "appName": "demo/edge",
-  "userGivenName": "demo/edge",
+  "appName": "demo-edge-clusters",
+  "userGivenName": "demo-edge-clusters",
   "destNamespace": "default",
   "destServer": "https://kubernetes.default.svc",
   "srcPath": "sites/demo/edge/clusters",
