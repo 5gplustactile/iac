@@ -1,0 +1,13 @@
+{
+  "appName": "demo/region",
+  "userGivenName": "demo/region",
+  "destNamespace": "default",
+  "destServer": "https://kubernetes.default.svc",
+  "srcPath": "sites/demo/region/clusters",
+  "srcRepoURL": "https://github.com/5gplustactile/auto-ztp.git",
+  "srcTargetRevision": "main",
+  "labels": null,
+  "annotations": null,
+  "exclude": "",
+  "include": ""
+}
