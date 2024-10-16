@@ -1,0 +1,13 @@
+{
+  "appName": "demo/edge",
+  "userGivenName": "demo/edge",
+  "destNamespace": "default",
+  "destServer": "https://kubernetes.default.svc",
+  "srcPath": "sites/demo/edge/addons",
+  "srcRepoURL": "https://github.com/5gplustactile/auto-ztp.git",
+  "srcTargetRevision": "main",
+  "labels": null,
+  "annotations": null,
+  "exclude": "",
+  "include": ""
+}
