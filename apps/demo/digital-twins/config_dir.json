@@ -1,6 +1,6 @@
 {
-  "appName": "demo",
-  "userGivenName": "demo",
+  "appName": "demo-digital-twins",
+  "userGivenName": "demo-digital-twins",
   "destNamespace": "default",
   "destServer": "https://kubernetes.default.svc",
   "srcPath": "demo",
