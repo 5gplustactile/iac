@@ -1,6 +1,6 @@
 {
-  "appName": "demo/edge",
-  "userGivenName": "demo/edge",
+  "appName": "demo-edge-addons",
+  "userGivenName": "demo-edge-addons",
   "destNamespace": "default",
   "destServer": "https://kubernetes.default.svc",
   "srcPath": "sites/demo/edge/addons",
