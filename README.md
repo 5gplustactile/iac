@@ -37,3 +37,6 @@ Define proyectos y configuraciones generales, como:
 
 - Este repositorio es autogestionado a través de los pipelines CICD
 
+## Licencia
+
+Este projecto es licenciado bajo [Apache](LICENSE)
