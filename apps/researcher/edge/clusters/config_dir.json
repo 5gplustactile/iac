@@ -1,6 +1,6 @@
 {
-  "appName": "researcher/edge",
-  "userGivenName": "researcher/edge",
+  "appName": "researcher-edge-clusters",
+  "userGivenName": "researcher-edge-clusters",
   "destNamespace": "default",
   "destServer": "https://kubernetes.default.svc",
   "srcPath": "sites/researcher/edge/clusters",

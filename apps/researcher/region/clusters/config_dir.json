@@ -1,6 +1,6 @@
 {
-  "appName": "researcher/region",
-  "userGivenName": "researcher/region",
+  "appName": "researcher-region-clusters",
+  "userGivenName": "researcher-region-clusters",
   "destNamespace": "default",
   "destServer": "https://kubernetes.default.svc",
   "srcPath": "sites/researcher/region/clusters",
