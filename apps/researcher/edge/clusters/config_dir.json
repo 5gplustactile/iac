@@ -1,0 +1,13 @@
+{
+  "appName": "researcher/edge",
+  "userGivenName": "researcher/edge",
+  "destNamespace": "default",
+  "destServer": "https://kubernetes.default.svc",
+  "srcPath": "sites/researcher/edge/clusters",
+  "srcRepoURL": "https://github.com/5gplustactile/auto-ztp.git",
+  "srcTargetRevision": "main",
+  "labels": null,
+  "annotations": null,
+  "exclude": "",
+  "include": ""
+}
